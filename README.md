@@ -1,5 +1,10 @@
 # Screen Capture Tool
 
+[![Python](https://img.shields.io/badge/Python-3.8+-3776AB.svg?logo=python&logoColor=white)](https://www.python.org/)
+[![PyQt5](https://img.shields.io/badge/PyQt5-5.15+-41CD52.svg?logo=qt&logoColor=white)](https://pypi.org/project/PyQt5/)
+[![Pillow](https://img.shields.io/badge/Pillow-9.0+-FF6F00.svg)](https://pypi.org/project/Pillow/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 PyQt5 기반의 프레임리스 화면 캡처 도구입니다.
 
 ## 기술 스택
