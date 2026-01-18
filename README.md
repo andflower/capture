@@ -7,6 +7,8 @@
 
 PyQt5 기반의 프레임리스 화면 캡처 도구입니다.
 
+![Screen Capture Demo](capture_demo.png)
+
 ## 기술 스택
 
 - **Python** 3.8+
@@ -100,7 +102,3 @@ from ui.styles import Styles
 ## 버전
 
 **v0.0.1**
-
-## 라이선스
-
-MIT License
